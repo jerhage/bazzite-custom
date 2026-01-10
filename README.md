@@ -1,3 +1,8 @@
+# Archived
+No longer using this repo. May return to tinkering with atomic distros in the future, but for now I've returned to NixOS
+
+---
+
 # image-template
 
 # Purpose
